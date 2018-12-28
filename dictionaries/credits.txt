@@ -1,0 +1,8 @@
+/* Dictionary Credits
+ * 
+ * Dictionary   11 is            OSPD.txt          from http://www.puzzlers.org/pub/wordlists/ospd.txt
+ * Dictionary   28 is            dictionary.txt    from https://raw.githubusercontent.com/jonbcard/scrabble-bot/master/src/dictionary.txt
+ * Dictionaries 1-10, 12-27  are                   from http://dreamsteep.com/downloads/word-games-and-wordsmith-utilities/120-the-english-open-word-list-eowl.html
+ * Dictionary   29 is            dict.txt          from //0415-PickUp/Strelkovska_ICS3U/ICS3U_21_StringGame/dict.txt
+ * Dictionary   30-81 are                          from //0415-PickUp/Strelkovska_ICS3U/ICS3U_21_StringGame/DictionaryFiles/Dictionary/
+ */
